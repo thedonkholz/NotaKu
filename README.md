@@ -1,0 +1,2 @@
+# NotaKu
+Aplikasi Catatan Pedagang
